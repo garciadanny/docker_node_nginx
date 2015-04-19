@@ -2,9 +2,9 @@
   "name": "demo_node_docker_app",
   "version": "0.0.1",
   "description": "A trivial node app containerized with docker.",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://example.com/repo.git"
+  "repository": {
+    "type": "git",
+    "url": "https://example.com/repo.git"
   },
   "main": "server.js",
   "scripts": {
