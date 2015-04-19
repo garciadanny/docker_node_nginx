@@ -1,0 +1,9 @@
+nginx:
+  build: ./nginx
+  links:
+    - nodeapp
+  ports:
+    - "80:80"
+    - "443:443"
+nodeapp:
+  build: ./demo_node_docker_app

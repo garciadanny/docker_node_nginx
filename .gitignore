@@ -1,0 +1,4 @@
+.DS_Store
+./**/.idea
+demo_node_docker_app/node_modules
+demo_node_docker_app/npm-debug.log
